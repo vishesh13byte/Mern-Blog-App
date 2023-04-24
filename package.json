@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "endgines": {
-    "node": ">=14 <15"
+    "node": ">=14.20.1 <15"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
